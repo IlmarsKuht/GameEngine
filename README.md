@@ -1,4 +1,4 @@
-# GameEngine Prototype developed by Ilmārs Kuhtarskis (in progress)
+# SFML GameEngine Prototype developed by Ilmārs Kuhtarskis (in progress)
 
 
 **The Main menu involves:**
